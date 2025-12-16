@@ -1,10 +1,10 @@
 
 	
 
-	#APPUNTI - 
+	## APPUNTI - 
 
-	Nelle prime lezioni abbiamo parlato del mondo Open Source e di  come funziona git hub.
-	Successivamente siamo entrati nel pratico, abbiamo creato la nostra prima chiave github e abbiamo imparato diversi comandi.	
+# Nelle prime lezioni abbiamo parlato del mondo Open Source e di  come funziona git hub.
+# Successivamente siamo entrati nel pratico, abbiamo creato la nostra prima chiave github e abbiamo imparato diversi comandi.	
 
 	## APPUNTI GITHUB -
 	
@@ -18,7 +18,7 @@
 
 	git branch -a= in verde trovo le branch dove sono ora, in rosso i remotes.
 
-	git commit= -M(messaggio), per creare un commit.
+	git commit= -m(messaggio), per creare un commit.
 
 	git push= inserisce la branch nelle etichette.
 
@@ -33,13 +33,12 @@
 	git log = dopo aver creato commit per vedere il commit.
 
 	
-	## Abbiamo avuto la fortuna di sostenere una videchiamata con uno dei fondatori di LibreOffice, Florian.	
+# Abbiamo avuto la fortuna di sostenere una videchiamata con uno dei fondatori di LibreOffice, Florian.	
 
-	## Inoltre su github abbiamo creato una pull request e abbiamo fatto il merge, una revisione della pull request.
+# Inoltre su github abbiamo creato una pull request e abbiamo fatto il merge, una revisione della pull request.
 
-	## Nell'ultima Lezione abbiamo continuato a vedere le pull request su github e ci è stato spiegato le varie funzionalità di LibreOffice.
-
-	##Nell'ultima lezione ci siamo soffermati
+# Nell'ultima Lezione abbiamo continuato a vedere le pull request su github e ci è stato spiegato le varie funzionalità di LibreOffice.
 	
 	   	
+
 
